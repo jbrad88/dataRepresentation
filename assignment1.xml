@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LibraryDatabase>
-<Crime>
-    <isbn>123456</isbn>
-    <title>The Silence of the Lambs</title>
-    <author>Harris, Thomas</author>
-</Crime>
-<Crime>
-    <isbn>123457</isbn>
-    <title>Papillon</title>
-    <author>Charriere, Henri</author>
-</Crime>
-<Fantasy>
-    <isbn>123458</isbn>
-    <title>The Hobbit</title>
-    <author>Tolkien, J.R.R</author>
-</Fantasy>
-<Fantasy>
-    <isbn>123459</isbn>
-    <title>A Game of Thrones</title>
-    <author>Martin, George R.R.</author>
+    <book category = "technical">
+        <isbn>123456</isbn>
+        <title>XML for Dummies</title>
+        <author>Tittel, E. and Dykes, L. </author>
+    </book>
+    <book category = "technical">
+        <isbn>123457</isbn>
+        <title>Python for Dummies</title>
+        <author>Maruch, A. and Maruch, S.</author>
+    </book>
+    <book category = "cooking">
+        <isbn>123458</isbn>
+        <title>Jamie's 15 Minute Meals</title>
+        <author>Oliver, J</author>
+    </book>
+    <book category = "Fantasy">
+        <isbn>123459</isbn>
+        <title>Quick and Delicious</title>
+        <author>Ramsay, G.</author>
+    </book>
 </LibraryDatabase>
