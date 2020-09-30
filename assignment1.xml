@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LibraryDatabase>
+<Crime>
+    <isbn>123456</isbn>
+    <title>The Silence of the Lambs</title>
+    <author>Harris, Thomas</author>
+</Crime>
+<Crime>
+    <isbn>123457</isbn>
+    <title>Papillon</title>
+    <author>Charriere, Henri</author>
+</Crime>
+<Fantasy>
+    <isbn>123458</isbn>
+    <title>The Hobbit</title>
+    <author>Tolkien, J.R.R</author>
+</Fantasy>
+<Fantasy>
+    <isbn>123459</isbn>
+    <title>A Game of Thrones</title>
+    <author>Martin, George R.R.</author>
+</LibraryDatabase>
